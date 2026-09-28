@@ -1,39 +1,34 @@
-# 👋 Hi, I'm Syed Mohsin Abbas
+# 👋 Hi, I'm Mohsin Abbas
 
 ### Software Engineering Student | Aspiring IT Project Manager | Technical Project Coordinator
 
-🎓 **BS Software Engineering** — University of Chenab
-📅 April 2022 – January 2027
+I'm currently studying **BS Software Engineering at the University of Chenab**, where I'll complete my degree in January 2027.
 
-I am a Software Engineering student with a strong interest in **software project management, Agile development, technical coordination, and software engineering**.
+During my degree, I've worked on different software projects, from small applications to larger systems designed around real-world problems. Along the way, I've developed an interest not only in building software, but also in **planning projects, understanding requirements, working with teams, and making sure things move from an idea to a working solution**.
 
-Throughout my academic journey, I have worked on software projects ranging from web applications to complex academic systems. My experience includes **requirements analysis, software development, database design, project planning, documentation, team collaboration, and problem solving**.
-
-I am particularly interested in roles where I can combine my **technical software engineering background with project coordination and Agile practices** to help teams plan, develop, and deliver software solutions effectively.
+I'm particularly interested in **Software Project Management, Agile/Scrum, IT Project Coordination, and Software Engineering**. I enjoy working at the point where technical development and project management come together.
 
 🇵🇰 Pakistani National
 
 ---
 
-## 🎯 Career Interests
+## 🎯 What I'm Interested In
 
-* Junior IT Project Manager
-* IT Project Coordinator
-* Technical Project Coordinator
-* Associate Project Manager
-* Software Project Coordinator
-* Junior Software Engineer
-* Business Analyst – IT
-* Scrum / Agile Project Support
+* IT Project Management
+* Software Project Coordination
+* Technical Project Management
+* Agile & Scrum
+* Software Development
+* Business Analysis
+* Junior Software Engineering
 
 ---
 
-## 🛠️ Core Skills
+## 🛠️ Skills
 
 ### 📋 Project Management
 
 * Agile & Scrum
-* Software Development Life Cycle (SDLC)
 * Project Planning & Coordination
 * Requirements Management
 * Task & Milestone Tracking
@@ -41,20 +36,19 @@ I am particularly interested in roles where I can combine my **technical softwar
 * Stakeholder Coordination
 * Project Documentation
 * Progress Reporting
-* Team Collaboration
+* SDLC
 
-### 📊 Project Management & Collaboration Tools
+### 📊 Tools
 
 * Jira
 * Confluence
 * GitHub
+* Git
 * Microsoft Excel
 * Microsoft Office
-* Git & Version Control
 
 ### 💻 Software Engineering
 
-* Requirements Engineering
 * Software Architecture
 * System Analysis & Design
 * Object-Oriented Programming
@@ -75,115 +69,104 @@ I am particularly interested in roles where I can combine my **technical softwar
 * MySQL
 * MongoDB
 
-### ☁️ Cloud & Deployment
+### ☁️ Cloud
 
 * AWS
 * Alibaba Cloud
 * OpenStack
 * Netlify
-* Cloud Computing Fundamentals
 
-### 🤝 Professional Skills
+### 🤝 Other Skills
 
-* Technical Communication
-* Team Coordination
+* Team Collaboration
+* Communication
 * Problem Solving
 * Analytical Thinking
 * Time Management
 * Presentation
 * Leadership
-* Documentation
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Projects
 
-## 💊 easyRX — Cloud-Based Pharmacy Management System
+## 💊 easyRX — Pharmacy Management System
 
-A software engineering project focused on developing a centralized pharmacy management platform.
+One of my main software engineering projects, focused on building a centralized system for managing pharmacy operations.
 
-**Key areas:**
+The project covers areas such as:
 
-* Requirements analysis and management
-* System design and architecture
-* Project planning and coordination
-* Pharmacy inventory management
-* Supplier and customer management
+* Pharmacy inventory
+* Suppliers and customers
 * Sales and stock management
-* Role-based workflows
-* Database design
+* Role-based access
+* Database management
 * AI-assisted invoice processing
 * Demand forecasting
 
-**Focus:** Software Engineering • Project Management • Cloud • AI • Database Systems
+I've been involved in the **planning, requirements, system design, and development** side of the project.
+
+**Technologies/Areas:** Software Engineering • AI • Database Systems • Cloud • Project Management
 
 ---
 
-## 🧪 Beaker Breaker Studio — AI-Supported Virtual Chemistry Laboratory
+## 🧪 Beaker Breaker Studio
 
-An educational technology platform designed to provide students with interactive virtual chemistry experiments.
+An **AI-supported virtual chemistry laboratory** designed to help students learn chemistry through interactive virtual experiments.
 
-**Key areas:**
+The idea includes:
 
-* Requirements engineering
-* System analysis and design
-* Project planning and documentation
-* Interactive learning workflows
-* AI-assisted guidance
-* Virtual experiments
-* Safety assessment
+* Virtual chemistry experiments
+* AI-based guidance
+* Safety assessments
+* Student readiness evaluation
 * Gamification
+* Interactive learning
 
-**Focus:** Software Engineering • AI • EdTech • System Design
+This project has given me experience with **requirements engineering, system design, documentation, and planning a larger software system**.
+
+**Technologies/Areas:** AI • Software Engineering • EdTech • System Design
 
 ---
 
 ## 🌐 Morabi Merge Solutions
 
-Web-based software project developed as part of my practical software development experience.
+A web development project where I worked on building a practical web-based solution while gaining experience with:
 
-**Focus areas:**
-
-* Web application development
+* Web development
 * Requirements analysis
 * Team collaboration
-* Version control
-* Software development workflow
+* Git/GitHub
+* Software development workflows
 
 ---
 
-# 📚 Areas of Professional Development
+# 📚 Currently Learning & Improving
 
-Currently strengthening my capabilities in:
+I'm currently focusing on improving my skills in:
 
 * Agile & Scrum
 * Jira & Confluence
-* Project Planning & Coordination
+* Project Planning
 * Risk & Issue Management
 * Stakeholder Management
-* Software Project Documentation
 * Business Analysis
+* Software Project Documentation
 * Cloud Computing
 * AI & Data-driven Applications
 
 ---
 
-# 📫 Connect With Me
-
-### LinkedIn
+# 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/syed-mohsin-abbas/)
 
-### GitHub
-
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/mohsinabbas2263)
-
-### Email
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:mohsinabbas2263@gmail.com)
 
 ---
 
-### 💡 Software Engineering + Project Management
+### 💡 A little about how I work
 
-> Building successful software requires more than writing code — it requires understanding requirements, coordinating teams, managing risks, and delivering solutions effectively.
+I enjoy understanding **why** we're building something, figuring out **how** to build it, and working with others to turn the idea into something useful.
